@@ -9,7 +9,8 @@
 
 # From Redit 
 # https://www.reddit.com/r/pmp/comments/yp2581/passed_today_11722_atatat_tips_and_tricks_to_pass/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
-
+# https://www.reddit.com/r/pmp/comments/sqbmvj/passed_today_11022022_atatat_exam_tips/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
+# https://www.reddit.com/r/pmp/comments/ywbofb/passed_atatat_on_11222_here_are_my_thoughts/
 
 Notice that writing & analyzing full-length mock tests is as important as studying the theory. On the other hand, learning from mentorship is as important as solving practice questions.
 
